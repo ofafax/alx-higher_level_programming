@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-	import sys
+    import sys
 
-	answer = 0
-	for arg in sys.argv:
-	if arg != sys.argv[0]:
-		answer += int(arg)
-	print(answer)
+    answer = 0
+    for arg in sys.argv:
+        if arg != sys.argv[0]:
+            answer += int(arg)
+
+        print(answer)
