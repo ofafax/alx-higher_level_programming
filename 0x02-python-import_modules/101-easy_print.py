@@ -1,2 +1,2 @@
-#!/bin/bash/python3
-echo '#pythoniscool'
+#!/usr/bin/python3
+import cool_python
