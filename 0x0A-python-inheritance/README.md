@@ -1,1 +1,0 @@
-Larning inheritance in python
